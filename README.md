@@ -1,4 +1,4 @@
-# orch
+# orchestral SonicPi
 
 A programming language for writing orchestral music.
 
